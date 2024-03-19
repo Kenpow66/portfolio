@@ -7,4 +7,5 @@
       2.	Sports
       3.	Languages
       4.	Special Education (SPED)
+    
     ii.	Collaborated with Lauren, Jonathan, and Carly
